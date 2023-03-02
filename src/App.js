@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href=""
+            href="https://github.com/Tetyana123/SheCodes-react-week5.git"
             target="_blank"
             rel="noopener noreferrer"
           >
