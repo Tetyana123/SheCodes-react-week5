@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://boisterous-otter-2cb390.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
